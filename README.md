@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masrinez
 - 👀 I’m interested in data science and computer programming
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on different field of programming
+- 🌱 I’m currently learning python and R
+- 💞️ I’m looking to collaborate on different field of programming especially the data science aspect
 - 📫 How to reach me +2347068645168
 
 <!---
