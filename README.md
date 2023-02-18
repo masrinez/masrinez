@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @masrinez
-- 👀 I’m interested in data science and computer programming
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on different field of programming especially the data science aspect
-- 📫 How to reach me +2347068645168
+- 👋 Hi, I’m Ezeizu Vitalis Chiebuka
+- 👀 I’m interested in health information technology and computer programming
+- 🌱 I’m currently working with python and Javascript
+- 💞️ I’m looking to collaborate on different field of programming especially the healthcare sector
+- 📫 How to reach me vitalisezeizu@yahoo.com
 
 <!---
 masrinez/masrinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
